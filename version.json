@@ -1,6 +1,6 @@
 {
-    "version":  "0.2.0",
-    "url":  "https://github.com/Stevo238/ai-trader-releases/releases/download/v0.2.0/AITrader.exe",
-    "sha256":  "584a228dd1bf7a805f68099487253bda1cd68d5f422773473d9c390d1d663caf",
-    "notes":  "The baseline strategy can now trade the paper account: a simple moving-average trend follower, up to ten holdings, each with a stop held at Alpaca. Every order goes through the cash-account rules (settled cash only, whole shares, listed stocks, no shorting) and is journaled with its reason. New Trades table and a since-start comparison with SPY on the status page. Trading stays paused until you press Resume."
+    "version":  "0.3.0",
+    "url":  "https://github.com/Stevo238/ai-trader-releases/releases/download/v0.3.0/AITrader.exe",
+    "sha256":  "3d8e09f4e3917b4e05f2138822521c90b0971bd351f0d4cf4d50e464c38ed662",
+    "notes":  "Claude can now work the account through its own set of tools: read the portfolio, prices, news, SEC filings, the earnings calendar and the journal; place and close trades under the same cash-account rules; log ideas it passed on; keep a watchlist; and pause trading. Works from Claude Code on Vienna now and from chat once the connector is added."
 }
