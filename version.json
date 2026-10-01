@@ -1,0 +1,6 @@
+{
+    "version":  "0.1.0",
+    "url":  "https://github.com/Stevo238/ai-trader-releases/releases/download/v0.1.0/AITrader.exe",
+    "sha256":  "6caf2335e47527137cc71306302a295df2ed3ccbf2ee9db6e3bcedc17d4decb4",
+    "notes":  "First build: connects to the Alpaca paper account, checks Vienna\u0027s clock against the broker, tracks settled cash, and logs positions and cash at each of the four daily run times. No trading yet."
+}
