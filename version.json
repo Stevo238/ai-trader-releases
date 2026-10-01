@@ -1,6 +1,6 @@
 {
-    "version":  "0.3.1",
-    "url":  "https://github.com/Stevo238/ai-trader-releases/releases/download/v0.3.1/AITrader.exe",
-    "sha256":  "d7714afd4a009d04510e658f1bf08fbfd80252d67c43a7a48b2814ee2a353aa5",
-    "notes":  "The server log now records each run and each order as it happens (they were being held back and lost on restart). No change to trading."
+    "version":  "0.4.0",
+    "url":  "https://github.com/Stevo238/ai-trader-releases/releases/download/v0.4.0/AITrader.exe",
+    "sha256":  "6565676a775beb135c86f433a1f938e65a10a7289802d82f3a65c307623eb40e",
+    "notes":  "Two accounts: the baseline strategy now trades its own paper account, and Claude (and hand-placed orders) keep the original one, so the two never share cash or positions. Each has its own settled-cash ledger, holdings, daily mark against SPY and score, shown side by side on the status page."
 }
