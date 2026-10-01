@@ -1,6 +1,6 @@
 {
-    "version":  "0.1.1",
-    "url":  "https://github.com/Stevo238/ai-trader-releases/releases/download/v0.1.1/AITrader.exe",
-    "sha256":  "8f3485ebe82bb48aa6d51052c6e5d4f60699b8edb3a44e1bbec46e74ba6785f3",
-    "notes":  "The status page now works from the Home Hub tile (hub.motronimeadows.com/trader/)."
+    "version":  "0.2.0",
+    "url":  "https://github.com/Stevo238/ai-trader-releases/releases/download/v0.2.0/AITrader.exe",
+    "sha256":  "584a228dd1bf7a805f68099487253bda1cd68d5f422773473d9c390d1d663caf",
+    "notes":  "The baseline strategy can now trade the paper account: a simple moving-average trend follower, up to ten holdings, each with a stop held at Alpaca. Every order goes through the cash-account rules (settled cash only, whole shares, listed stocks, no shorting) and is journaled with its reason. New Trades table and a since-start comparison with SPY on the status page. Trading stays paused until you press Resume."
 }
