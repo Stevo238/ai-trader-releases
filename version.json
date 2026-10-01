@@ -1,6 +1,6 @@
 {
-    "version":  "0.3.0",
-    "url":  "https://github.com/Stevo238/ai-trader-releases/releases/download/v0.3.0/AITrader.exe",
-    "sha256":  "3d8e09f4e3917b4e05f2138822521c90b0971bd351f0d4cf4d50e464c38ed662",
-    "notes":  "Claude can now work the account through its own set of tools: read the portfolio, prices, news, SEC filings, the earnings calendar and the journal; place and close trades under the same cash-account rules; log ideas it passed on; keep a watchlist; and pause trading. Works from Claude Code on Vienna now and from chat once the connector is added."
+    "version":  "0.3.1",
+    "url":  "https://github.com/Stevo238/ai-trader-releases/releases/download/v0.3.1/AITrader.exe",
+    "sha256":  "d7714afd4a009d04510e658f1bf08fbfd80252d67c43a7a48b2814ee2a353aa5",
+    "notes":  "The server log now records each run and each order as it happens (they were being held back and lost on restart). No change to trading."
 }
