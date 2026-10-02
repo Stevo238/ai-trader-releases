@@ -1,6 +1,6 @@
 {
-    "version":  "0.5.0",
-    "url":  "https://github.com/Stevo238/ai-trader-releases/releases/download/v0.5.0/AITrader.exe",
-    "sha256":  "387750fa96b4e6daa44f396f50e8d6cb1e5d63706fa29ecc678ea00ddc64698e",
-    "notes":  "Claude now runs the account itself: an Observe run before the open, a Decide run at 9:35 that trades, and a Monitor run at midday, each an unattended Claude session on the subscription that can only use the trader\u0027s own tools. Starts from a mildly aggressive swing-trading playbook (version 1). The status page shows Claude\u0027s notes from each run and what the day\u0027s runs would have cost at list price."
+    "version":  "0.6.0",
+    "url":  "https://github.com/Stevo238/ai-trader-releases/releases/download/v0.6.0/AITrader.exe",
+    "sha256":  "a81e68147088939d9050760149f1587f85fb97f5193c56e97fe7193a8a5fb308",
+    "notes":  "One account. The moving-average baseline strategy and its second paper account are gone; Claude\u0027s account is now measured against the major indexes instead: the S\u0026P 500 (SPY), Nasdaq 100 (QQQ) and Dow (DIA), marked at each day\u0027s 4:30 run. The status page shows how far ahead of or behind each one the account is, and the playbook (now version 2) states the same goal."
 }
