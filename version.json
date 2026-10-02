@@ -1,6 +1,6 @@
 {
-    "version":  "0.6.0",
-    "url":  "https://github.com/Stevo238/ai-trader-releases/releases/download/v0.6.0/AITrader.exe",
-    "sha256":  "a81e68147088939d9050760149f1587f85fb97f5193c56e97fe7193a8a5fb308",
-    "notes":  "One account. The moving-average baseline strategy and its second paper account are gone; Claude\u0027s account is now measured against the major indexes instead: the S\u0026P 500 (SPY), Nasdaq 100 (QQQ) and Dow (DIA), marked at each day\u0027s 4:30 run. The status page shows how far ahead of or behind each one the account is, and the playbook (now version 2) states the same goal."
+    "version":  "0.6.1",
+    "url":  "https://github.com/Stevo238/ai-trader-releases/releases/download/v0.6.1/AITrader.exe",
+    "sha256":  "c7e17326735a10795fa5e0e0e0001f3c6f6e224e930878a41ce72deff4dc3ec0",
+    "notes":  "The status page fits a phone: two tiles to a row, the wide tables shown as cards, the logs compact, and nothing wider than the screen. Claude\u0027s notes show their headings in bold."
 }
