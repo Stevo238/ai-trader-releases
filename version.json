@@ -1,6 +1,6 @@
 {
-    "version":  "0.6.1",
-    "url":  "https://github.com/Stevo238/ai-trader-releases/releases/download/v0.6.1/AITrader.exe",
-    "sha256":  "c7e17326735a10795fa5e0e0e0001f3c6f6e224e930878a41ce72deff4dc3ec0",
-    "notes":  "The status page fits a phone: two tiles to a row, the wide tables shown as cards, the logs compact, and nothing wider than the screen. Claude\u0027s notes show their headings in bold."
+    "version":  "0.6.2",
+    "url":  "https://github.com/Stevo238/ai-trader-releases/releases/download/v0.6.2/AITrader.exe",
+    "sha256":  "dfa43e89944e7ea383430f7a50d40836d3b87084ebdfb4ce1106bea79b703a69",
+    "notes":  "Claude\u0027s portfolio view brings the journal up to date before answering, so a buy that filled a moment after it was placed shows as a position, not as an order still waiting. No change to trading."
 }
