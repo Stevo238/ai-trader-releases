@@ -1,6 +1,6 @@
 {
-    "version":  "0.6.2",
-    "url":  "https://github.com/Stevo238/ai-trader-releases/releases/download/v0.6.2/AITrader.exe",
-    "sha256":  "dfa43e89944e7ea383430f7a50d40836d3b87084ebdfb4ce1106bea79b703a69",
-    "notes":  "Claude\u0027s portfolio view brings the journal up to date before answering, so a buy that filled a moment after it was placed shows as a position, not as an order still waiting. No change to trading."
+    "version":  "0.7.0",
+    "url":  "https://github.com/Stevo238/ai-trader-releases/releases/download/v0.7.0/AITrader.exe",
+    "sha256":  "189fe2f55b193ff8381429d9daa1ad21b9eb02b3086f3f17517b6a6cbf281148",
+    "notes":  "Charts and review. Four tabs: Overview (the account against the S\u0026P 500, Nasdaq 100 and Dow for today, the week, the month or three months; how much is invested; where the money sits by holding and by sector), Holdings (each position\u0027s price since it was bought, with its entry, stop and target, and why Claude bought it), Journal (trades, the ideas Claude passed on and how they have moved since, the watchlist), and Claude (every run\u0027s notes and what the runs used)."
 }
